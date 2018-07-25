@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Search</name>
+   <tag></tag>
+   <elementGuidId>097e32ea-82e8-4bc8-b09d-b530f3b521cd</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-primary</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-nz-type</name>
+      <type>Main</type>
+      <value>primary</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>查询</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout ant-layout-has-sider&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-account[@class=&quot;ng-star-inserted&quot;]/nz-form-item[@class=&quot;ant-row ant-form-item&quot;]/nz-form-control[@class=&quot;gutter-row ant-col-24 ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control&quot;]/span[@class=&quot;ant-form-item-children&quot;]/nz-card[@class=&quot;ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-body&quot;]/form[@class=&quot;ant-form ant-form-inline ng-pristine ng-valid ng-star-inserted ng-touched&quot;]/button[@class=&quot;ant-btn ant-btn-primary&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

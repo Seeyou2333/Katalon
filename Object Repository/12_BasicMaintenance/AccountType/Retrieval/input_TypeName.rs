@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_TypeName</name>
+   <tag></tag>
+   <elementGuidId>48916195-1df4-4d73-bd73-140416d20c80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@class = 'ng-untouched ng-pristine ng-valid ant-input']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/nz-layout/nz-layout/nz-content/app-account/nz-form-item/nz-form-control/div/span/nz-card[1]/div[2]/form/nz-form-item[1]/nz-form-control/div/span/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>typeName</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>typeName</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>类型名称</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine ng-valid ant-input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout ant-layout-has-sider&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-account[@class=&quot;ng-star-inserted&quot;]/nz-form-item[@class=&quot;ant-row ant-form-item&quot;]/nz-form-control[@class=&quot;gutter-row ant-col-24 ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control&quot;]/span[@class=&quot;ant-form-item-children&quot;]/nz-card[@class=&quot;ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-body&quot;]/form[@class=&quot;ant-form ant-form-inline ng-pristine ng-valid ng-star-inserted ng-touched&quot;]/nz-form-item[@class=&quot;ant-row ant-form-item&quot;]/nz-form-control[@class=&quot;ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control&quot;]/span[@class=&quot;ant-form-item-children&quot;]/input[@class=&quot;ng-pristine ng-valid ant-input ng-touched&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

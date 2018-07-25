@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Type_Add</name>
+   <tag></tag>
+   <elementGuidId>e9a8a207-3626-4edd-a30b-cb0b0e9ee461</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>新建用户类型</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout ant-layout-has-sider&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-account[@class=&quot;ng-star-inserted&quot;]/nz-form-item[@class=&quot;ant-row ant-form-item&quot;]/nz-form-control[@class=&quot;gutter-row ant-col-24 ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control&quot;]/span[@class=&quot;ant-form-item-children&quot;]/nz-card[@class=&quot;ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-head ng-star-inserted&quot;]/div[@class=&quot;ant-card-head-wrapper&quot;]/div[@class=&quot;ant-card-head-title ng-star-inserted&quot;]/a[@class=&quot;ng-star-inserted&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

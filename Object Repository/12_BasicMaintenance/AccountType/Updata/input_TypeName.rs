@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_TypeName</name>
+   <tag></tag>
+   <elementGuidId>02af8ff5-dda5-4b53-adb3-5878b58039af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/nz-layout/nz-layout/nz-content/app-account/nz-form-item/nz-form-control/div/span/nz-card[2]/div[2]/nz-table/div/nz-spin/div/div[2]/div/div/div/div/table/tbody/tr[1]/td[1]/span/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-model</name>
+      <type>Main</type>
+      <value>zwbtest</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine ng-valid ant-input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout ant-layout-has-sider&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-account[@class=&quot;ng-star-inserted&quot;]/nz-form-item[@class=&quot;ant-row ant-form-item&quot;]/nz-form-control[@class=&quot;gutter-row ant-col-24 ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control&quot;]/span[@class=&quot;ant-form-item-children&quot;]/nz-card[@class=&quot;ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-body&quot;]/nz-table[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ant-table-wrapper&quot;]/nz-spin[1]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[1]/div[@class=&quot;ant-table ant-table-large&quot;]/div[@class=&quot;ant-table-content&quot;]/div[@class=&quot;ant-table-body ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ng-star-inserted&quot;]/td[1]/span[@class=&quot;ng-star-inserted&quot;]/input[@class=&quot;ng-untouched ng-pristine ng-valid ant-input&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

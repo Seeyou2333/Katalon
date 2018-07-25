@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>AccountType</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-07-24T17:55:59</lastRun>
+   <mailRecipient>1311141324@qq.com;</mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>false</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
+   <testSuiteGuid>46612b32-9210-4e2b-9a08-8adccfa0578c</testSuiteGuid>
+   <testCaseLink>
+      <guid>d6a71146-63d1-45a0-bd8f-bd7c7f7ddb2b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>26da7531-75ce-45a2-8b19-a0094c5c5fda</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/AccontType</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>26da7531-75ce-45a2-8b19-a0094c5c5fda</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>287211a9-ef18-445a-8bc6-7d4fa6a78921</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>26da7531-75ce-45a2-8b19-a0094c5c5fda</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>23b79463-8ae5-4046-bf61-8730f85b3968</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5feef02b-3bcb-4cc0-b00c-19011e4b7631</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/12_BasicMaintenance/MenuTo</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3e5b92c2-2150-4cc9-9517-2bd60ebf2ce6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/12_BasicMaintenance/AccountType/MenuTo</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a6a238a7-08e7-42e9-a3f2-ed3dedebe562</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/12_BasicMaintenance/AccountType/Create</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8e2261bc-d2bf-4c96-8fed-4ecc75821b41</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/AccontType</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>8e2261bc-d2bf-4c96-8fed-4ecc75821b41</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>C_TypeName</value>
+         <variableId>2e46833e-7f9b-495a-b9a5-d0fca63c4bcb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8e2261bc-d2bf-4c96-8fed-4ecc75821b41</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>C_HomePageURL</value>
+         <variableId>4e951636-05f9-4f35-8c40-45d8b09b9edc</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c85770b6-58f8-4901-a2ac-adc6bdbbfe96</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/12_BasicMaintenance/AccountType/Updata</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>abd10a4d-3c22-4758-9050-1b1490c6b3c6</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/AccontType</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>abd10a4d-3c22-4758-9050-1b1490c6b3c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>U_TypeName</value>
+         <variableId>450073eb-c0a3-4bd8-ba97-3a93df5db1e5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>abd10a4d-3c22-4758-9050-1b1490c6b3c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>U_HomePageURL</value>
+         <variableId>f8d86d6f-4f8b-4d91-bfcb-749b8d42a05e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4e830c13-1503-4cf3-9128-0c892748f10e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/12_BasicMaintenance/AccountType/Retrieval</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fbb0897a-d5c1-4887-9598-bdcf5b0f37cf</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/AccontType</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>793ebf2b-0ec2-41c0-92b2-732aae947de1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fbb0897a-d5c1-4887-9598-bdcf5b0f37cf</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>R_TypeName</value>
+         <variableId>721c57be-96e7-4345-9961-1e4b0487caf1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fbb0897a-d5c1-4887-9598-bdcf5b0f37cf</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>R_HomePageURL</value>
+         <variableId>7a9f237e-3987-4c9f-b93b-0c0d6239bb7e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

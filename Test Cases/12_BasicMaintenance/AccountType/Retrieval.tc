@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Retrieval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32f0c2a9-5311-49f8-81a8-33ed99be940e</testCaseGuid>
+   <variable>
+      <defaultValue>'启用'</defaultValue>
+      <description></description>
+      <id>793ebf2b-0ec2-41c0-92b2-732aae947de1</id>
+      <masked>false</masked>
+      <name>state</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>721c57be-96e7-4345-9961-1e4b0487caf1</id>
+      <masked>false</masked>
+      <name>R_TypeName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7a9f237e-3987-4c9f-b93b-0c0d6239bb7e</id>
+      <masked>false</masked>
+      <name>R_HomePageURL</name>
+   </variable>
+</TestCaseEntity>

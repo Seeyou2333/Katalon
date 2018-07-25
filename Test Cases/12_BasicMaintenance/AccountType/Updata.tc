@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Updata</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9b47997-3dbf-4fa2-97fc-1243de797c51</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>450073eb-c0a3-4bd8-ba97-3a93df5db1e5</id>
+      <masked>false</masked>
+      <name>U_TypeName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f8d86d6f-4f8b-4d91-bfcb-749b8d42a05e</id>
+      <masked>false</masked>
+      <name>U_HomePageURL</name>
+   </variable>
+</TestCaseEntity>

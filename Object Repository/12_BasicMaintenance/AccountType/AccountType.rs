@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AccountType</name>
+   <tag></tag>
+   <elementGuidId>6e8f6802-af21-4617-9a4b-112d8388903a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = '#/basedata/accounttype']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/nz-layout/nz-sider/div/app-menu/ul/li[12]/ul/ul/li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/basedata/accounttype</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/nz-layout[@class=&quot;ant-layout ant-layout-has-sider&quot;]/nz-sider[@class=&quot;noprint ant-layout-sider ng-star-inserted&quot;]/div[@class=&quot;ant-layout-sider-children&quot;]/app-menu[@class=&quot;noprint&quot;]/ul[@class=&quot;ant-menu ant-menu-root ant-menu-dark ant-menu-inline ng-star-inserted&quot;]/li[@class=&quot;ng-tns-c14-13 ant-menu-submenu ant-menu-submenu-inline ng-star-inserted ant-menu-submenu-open&quot;]/ul[@class=&quot;ng-tns-c14-13 ng-trigger ng-trigger-expandAnimation ant-menu ant-menu-inline ant-menu-sub ng-star-inserted&quot;]/ul[@class=&quot;ng-star-inserted&quot;]/li[@class=&quot;ant-menu-item ng-star-inserted&quot;]/a[1]</value>
+   </webElementProperties>
+</WebElementEntity>
